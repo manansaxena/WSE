@@ -9,7 +9,6 @@ What to learn -
 
 Resources to learn from -
 
-Aggregated resources:
  - [Full Stack Python](https://www.fullstackpython.com/web-development.html#:~:text=How%20does%20Python%20fit%20into,in%20getting%20their%20application%20working.)
  - [Missing Semester by CSAIL MIT](https://missing.csail.mit.edu/2020/)
 
