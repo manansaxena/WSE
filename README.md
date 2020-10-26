@@ -8,8 +8,8 @@ What to learn -
 3) Docker, Kuberenetes, Deployment of GCP and AWS
 
 Resources to learn from -
- - [RoadMap -1](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020) [Link to channel](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
- - [RoadMap -2](https://www.youtube.com/watch?v=ysEN5RaKOlA) [Link to blog post](https://coder-coder.com/learn-web-development/)
+ - [RoadMap -1](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020) | [Link to channel](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+ - [RoadMap -2](https://www.youtube.com/watch?v=ysEN5RaKOlA) | [Link to blog post](https://coder-coder.com/learn-web-development/)
  - [Full Stack Python](https://www.fullstackpython.com/web-development.html#:~:text=How%20does%20Python%20fit%20into,in%20getting%20their%20application%20working.)
  - [Missing Semester by CSAIL MIT](https://missing.csail.mit.edu/2020/)
 
