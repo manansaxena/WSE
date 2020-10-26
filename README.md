@@ -8,7 +8,7 @@ What to learn -
 3) Docker, Kuberenetes, Deployment of GCP and AWS
 
 Resources to learn from -
-
+ - [RoadMap](https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020)
  - [Full Stack Python](https://www.fullstackpython.com/web-development.html#:~:text=How%20does%20Python%20fit%20into,in%20getting%20their%20application%20working.)
  - [Missing Semester by CSAIL MIT](https://missing.csail.mit.edu/2020/)
 
