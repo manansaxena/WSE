@@ -9,5 +9,5 @@ What to learn -
 
 Resources to learn from -
 
-1) [Introduction to Microservices, Docker, and Kubernetes] (https://www.youtube.com/watch?v=1xo-0gCVhTU)
-2) [Full Stack Python] (https://www.fullstackpython.com/web-development.html#:~:text=How%20does%20Python%20fit%20into,in%20getting%20their%20application%20working.)
+1) [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU)
+2) [Full Stack Python](https://www.fullstackpython.com/web-development.html#:~:text=How%20does%20Python%20fit%20into,in%20getting%20their%20application%20working.)
