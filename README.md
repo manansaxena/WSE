@@ -8,8 +8,10 @@ What to learn -
 3) Docker, Kuberenetes, Deployment of GCP and AWS
 
 Resources to learn from -
-[Full Stack Python](https://www.fullstackpython.com/web-development.html#:~:text=How%20does%20Python%20fit%20into,in%20getting%20their%20application%20working.)
-[Missing Semester by CSAIL MIT](https://missing.csail.mit.edu/2020/)
+
+Aggregated resources:
+ - [Full Stack Python](https://www.fullstackpython.com/web-development.html#:~:text=How%20does%20Python%20fit%20into,in%20getting%20their%20application%20working.)
+ - [Missing Semester by CSAIL MIT](https://missing.csail.mit.edu/2020/)
 
 3) Deployment stuff 
    - [Introduction to Microservices, Docker, and Kubernetes](https://www.youtube.com/watch?v=1xo-0gCVhTU)
